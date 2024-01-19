@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Producto 1",
+    "description": "1- Este es un producto de Prueba",
+    "price": 200,
+    "code": "SKU65l1",
+    "stock": 125,
+    "status": false,
+    "category": "Ropa",
+    "thunbnail": [],
+    "id": 1
+  },
+  {
+    "title": "Producto 22",
+    "description": "22- Este es un producto de Prueba",
+    "price": 900,
+    "code": "SKU33l6",
+    "stock": 167,
+    "status": false,
+    "category": "Bebida",
+    "thunbnail": [
+      "foto1.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "3- Este es un producto de Prueba",
+    "price": 2600,
+    "code": "SKU12p9",
+    "stock": 88,
+    "status": true,
+    "category": "Bebida",
+    "thunbnail": [],
+    "id": 3
+  },
+  {
+    "title": "Producto 4",
+    "description": "4- Este es un producto de Prueba",
+    "price": 900,
+    "code": "SKU98r5",
+    "stock": 167,
+    "status": true,
+    "category": "Bebida",
+    "thunbnail": [
+      "foto1.jpg"
+    ],
+    "id": 4
+  },
+  {
+    "title": "Cámara de acción",
+    "description": "Resistente al agua y a golpes",
+    "code": "SKU78s9",
+    "price": 299.99,
+    "status": true,
+    "stock": 15,
+    "category": "Electrónica",
+    "thumbnail": "camara03.jpg",
+    "id": 5
+  }
+]
